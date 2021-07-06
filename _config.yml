@@ -1,0 +1,109 @@
+url: https://ss020182003.github.io
+baseurl: /m
+
+# Site settings
+title: Gaming Geeks
+email: ggeeks.platform@gmail.com
+description: "We at Gaming Geeks, Students from different Colleges, Organize Weekly Tournaments for different Mobile/PC Games. Winners get Amazing Prizes and Participants get Participation Certificate. Practice Games are organized daily 10 PM (IST) on Discord."
+
+# Team names, titles and social links
+people:
+  # - name: Gurtaran Singh
+  #   pic: 1
+  #   position: Founder
+  #   social:
+  #     - title: twitter
+  #       url: #
+  #     - title: facebook
+  #       url: #
+  #     - title: stack-overflow
+  #       url: #
+
+  # - name: Sahib Singh
+  #   pic: 2
+  #   position: Co-Founder
+  #   social:
+  #     - title: twitter
+  #       url: #
+  #     - title: facebook
+  #       url: #
+  #     - title: linkedin
+  #       url: #
+  - name: Japsimar Kaur
+    pic: 2
+    position: 
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: linkedin
+        url: #
+  - name: Devaang Goswami
+    pic: 2
+    position: 
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: linkedin
+        url: #
+  - name: Noordeep Kaur
+    pic: 2
+    position: 
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: linkedin
+        url: #
+
+ 
+  - name: Aashish Kumar
+    pic: 2
+    position: 
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: linkedin
+        url: #
+  - name: Sarthak Narang
+    pic: 2
+    position: 
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: linkedin
+        url: #
+
+
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: Instagram
+    url: http://instagram.com/gamers.platform_?utm_source=qr
+  - title: linkedin
+    url: https://www.linkedin.com/company/gaming-geeks/
+  - title: YouTube
+    url: https://www.youtube.com/channel/UC0up2cGfG13O9oWqachTunQ/
+  - title: Discord
+    url: https://discord.gg/YRmKyN498W
+  - title: github
+    url: http://github.com/jekyll
+
+
+# Postal address (add as many lines as necessary)
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
